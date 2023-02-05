@@ -4,12 +4,12 @@ Inspired by [Arduino Powered Micro Quadruped](https://www.instructables.com/Ardu
 
 Organizations lock their buildings to prevent unauthorized access--but how many lock their mail rooms?
 
-The legs are equipped with neodymium magnets
 ![mattruder1](https://user-images.githubusercontent.com/104172903/216794770-6c1c23e4-d6bf-4c7b-bd77-d763fd17cf5d.jpg)
 The Mattruder is a proof of concept for a low-cost quadruped drone small enough to be inserted via package or padded envelope.
 ![mattruder2](https://user-images.githubusercontent.com/104172903/216794773-26b6108a-d58b-443b-b700-094d03b10481.jpg)
 It uses the commonly available Arduino Uno, ESP32-CAM module. amd MG90S servos, with 3D printed body and legs to further minimize cost.
 ![mattruder3](https://user-images.githubusercontent.com/104172903/216794776-0a404575-4842-4f86-8215-b473ddac69bc.jpg)
+The legs are equipped with neodymium magnets.
 ![mattruder4](https://user-images.githubusercontent.com/104172903/216794778-fb7e24ca-c6ce-453b-a4c0-9ee66c64b3ad.jpg)
 The Mattruder is four inches wide by five inches long. The legs fold into the body for a minimimum height of five inches.
 
