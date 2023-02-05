@@ -22,6 +22,8 @@ The Mattruder is four inches wide by five inches long. The legs fold into the bo
 
 ![mattruder5](https://user-images.githubusercontent.com/104172903/216794781-d2c0a87e-15fb-4c69-838b-a71954f3c6b9.jpg)
 
+Powered by a nine volt battery.
+
 ![mattruder6](https://user-images.githubusercontent.com/104172903/216794785-1b9753c2-3e20-4d1d-87dc-97112f72168d.jpg)
 
 Here it is in action:
